@@ -8,67 +8,116 @@
 
 # Game Introduction
 
-洛克人是一款 2D 類型卷軸 RPG 遊戲，玩家必須要擊倒 6 隻 Boss 後進入最後一關。  
-在打每關之後會獲得不同屬性的洛克人，玩家必須要了解不同屬性在地圖上的優勢，才能發揮最大的效果。  
+Plant vs. Zombies is a classic tower defense game. Players must plant various types of functional plants on their lawn to defend against an incoming horde of zombies.
+
+This project is aimed at recreating the first major stage (Level 1-1 to Level 1-10(if possible)). 
 
 [遊戲連結](https://www.youtube.com/watch?v=2BGA79PKaZ8)
 
 # Development timeline
 
-- Week 01：撰寫 Proposal、完成練習
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 02：蒐集素材
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 03：蒐集素材
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 04：製作地圖、過關動畫
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 05：製作地圖、攝影機
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 06：製作怪物
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 07：製作怪物
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 08：期中 Demo
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 09：期中 Demo
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 10：製作洛克人
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 11：製作洛克人
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 12：製作道具
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 13：製作道具
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 14：製作道具
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 15：製作第二關
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 16：製作第二關
-  - [ ] 項目一
-  - [ ] 項目二
-- Week 17：提交
-  - [ ] 拍攝影片
-  - [ ] 製作遊戲簡報
-  - [ ] 驗收並提交
+Week 01: Project Proposal
+
+[ ] Finalize game scope and project structure
+
+[ ] Initialize PTSD engine environment
+
+Week 02: Asset Collection (Entities)
+
+[ ] Collect plant and zombie sprites/assets
+
+[ ] Design the game grid dimensions
+
+Week 03: Asset Collection (Environment)
+
+[ ] Collect map background and tile assets
+
+[ ] Design UI layout (Seed selection and Sun display)
+
+Week 04: Map System
+
+[ ] Construct the game map within the engine
+
+[ ] Implement plant placement validation logic
+
+Week 05: Zombie System
+
+[ ] Create the "Normal Zombie" character class
+
+[ ] Implement zombie movement and state logic
+
+Week 06: Plant System
+
+[ ] Create "Sunflower" and "Peashooter" classes
+
+[ ] Implement the core planting functionality
+
+Week 07: Combat System
+
+[ ] Implement plant attacking logic (Projectiles)
+
+[ ] Implement zombie attacking logic (Eating plants)
+
+Week 08: Midterm Demo
+
+[ ] Complete the fundamental game loop
+
+[ ] Showcase a playable demonstration level
+
+Week 09: System Optimization
+
+[ ] Debug issues identified during the Midterm Demo
+
+[ ] Optimize combat and collision detection performance
+
+Week 10: Expanded Plant Roster
+
+[ ] Implement new plant types (e.g., Wall-nut, Cherry Bomb)
+
+[ ] Develop unique abilities and attack patterns
+
+Week 11: Expanded Zombie Roster
+
+[ ] Implement new zombie types (e.g., Conehead Zombie)
+
+[ ] Balance health points and movement speeds
+
+Week 12: Resource System
+
+[ ] Finalize the Sun generation system
+
+[ ] Implement planting costs and consumption mechanics
+
+Week 13: Level Progression (Levels 1.1 - 1.5)
+
+[ ] Design level-specific layouts and difficulty
+
+[ ] Program zombie spawn "waves" and timing
+
+Week 14: Level Progression (Levels 1.6 - 1.10)
+
+[ ] Design advanced levels and wave patterns
+
+[ ] Implement the Level 1-10 special mechanics
+
+Week 15: Animation & Audio
+
+[ ] Integrate attack animations and visual feedback
+
+[ ] Implement game music and sound effects via PTSD
+
+Week 16: Testing & Final Polish
+
+[ ] Conduct end-to-end testing of all 10 levels
+
+[ ] Fix remaining bugs and fine-tune game balance
+
+Week 17: Final Submission
+
+[ ] Record gameplay demonstration video
+
+[ ] Prepare final project presentation
+
+[ ] Submit all deliverables
 
 
-# OOP 修課證明 (if you need)
-
-![113590036](114-1_grade_page-0001.jpg)
